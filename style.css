@@ -1,50 +1,50 @@
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-image: url("ebecc4fa.png");
-    background-attachment:fixed ;
-    color: #333;
-  }
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url("ebecc4fa.png");
+  background-attachment:fixed ;
+  color: #333;
+}
 
-  header {
-    background-color: #760000de;
-    color: white;
-    text-align: center;
-    padding: 2rem 1rem;
-  }
+header {
+  background-color: #760000de;
+  color: white;
+  text-align: center;
+  padding: 2rem 1rem;
+}
 
-  header h1 {
-    margin: 0;
-    font-size: 2.5rem;
-  }
+header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
 
-  header p {
-    font-size: 1.2rem;
-    margin-top: 0.5rem;
-  }
+header p {
+  font-size: 1.2rem;
+  margin-top: 0.5rem;
+}
 
-  section {
-    padding: 2rem;
-    margin: 1rem;
-    background-color: #ffffffe1;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
+section {
+  padding: 2rem;
+  margin: 1rem;
+  background-color: #ffffffe1;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
 
-  .call-to-action ul {
-    list-style: none;
-    padding: 0;
-  }
+.call-to-action ul {
+  list-style: none;
+  padding: 0;
+}
 
-  .call-to-action li {
-    font-size: 1.1rem;
-    padding: 0.5rem 0;
-  }
+.call-to-action li {
+  font-size: 1.1rem;
+  padding: 0.5rem 0;
+}
 
-  footer {
-    text-align: center;
-    background-color: #ddd;
-    padding: 1rem;
-    font-size: 0.9rem;
-  }
+footer {
+  text-align: center;
+  background-color: #ddd;
+  padding: 1rem;
+  font-size: 0.9rem;
+}
