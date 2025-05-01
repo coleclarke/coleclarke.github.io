@@ -55,3 +55,19 @@ footer {
   margin: 0 auto;
   max-width: 100%;
 }
+
+.donate-button {
+  display: inline-block;
+  background-color: #760000;
+  color: white;
+  padding: 0.8rem 1.5rem;
+  text-decoration: none;
+  font-size: 1.2rem;
+  border-radius: 5px;
+  text-align: center;
+  transition: background-color 0.3s ease;
+}
+
+.donate-button:hover {
+  background-color: #a00000;
+}
