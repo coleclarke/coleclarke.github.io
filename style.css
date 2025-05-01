@@ -48,3 +48,10 @@ footer {
   padding: 1rem;
   font-size: 0.9rem;
 }
+
+.rounded-image {
+  border-radius: 15px; 
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
